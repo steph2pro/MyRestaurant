@@ -1,0 +1,5 @@
+le dossier assets doit contenir les fichier tel que les images,les styles css, les scripts js ,les fonts a utiliser et le fichier de la base de donnee dans les sous repertoires respectif.
+le dossier Models vas contenir les differents modele de notre application c'est a dire les definitions en terme de fonction metier de chaque entite de notre systeme
+le dossier Vue vas contenir vue c'est a dire les interface qui seront consultable par notre application
+le dossier Controlleurs vas contenir la logique metier de notre systeme donc ca sera l'intermediere entre la vue et le modele
+NB: cote back-end on utulisera le PHP fonctionnel pour que nous soyons au moins au meme niveau de comprehension
