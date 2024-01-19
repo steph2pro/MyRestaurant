@@ -1,2 +1,2 @@
 # MyRestaurant
-application de commande pour un restorant
+application de commande pour un restaurant
