@@ -18,4 +18,4 @@
 
         header('location:../index.php');
     }
-?>
+?>  
